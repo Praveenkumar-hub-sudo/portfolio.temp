@@ -17,7 +17,7 @@ Welcome to my personal portfolio website showcasing my skills, projects, and con
 
 ## Demo
 
-You can check the live demo of the portfolio [here](https://your-github-username.github.io/your-repo-name/).
+You can check the live demo of the portfolio [here](https://praveenkumar-hub-sudo.github.io/portfolio.temp/).
 
 ## Installation & Usage
 
